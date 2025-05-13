@@ -29,7 +29,7 @@ category: "resource"
     - If you would like to discuss any of the problems, please contact the HPL.
 - [Theorem Booklet]({{site.baseurl}}/resources/ODEs_Thms.pdf):
     - This document includes various definitions, theorems, and formulas about ODE that was initially compiled during Fall 2022 and adjusted up until Fall 2024.
-- [Laplace Table]({{site.baseurl}}/resources/Laplace_Table.pdf):
+- [Laplace Table]({{site.baseurl}}/resources/Laplace_table.pdf):
     - This document includes a table of Laplace transformation that most instructors would provide during their assessments. This document can be a helpful tool before your instructor has provided you with their version.
 - [Activity Slide]({{site.baseurl}}/resources/Activities.pdf):
     - Here is a set of slides deck that we could be playing with when we need some engagements. Feel free to play with some of it in advance.
