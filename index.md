@@ -14,7 +14,7 @@ category: "home"
 
 - Term: Summer 2025
 - Dates: Between June 2nd and July 30th. 
-- Office Hour Time: Thursdays from 8pm to 10pm.
+- Office Hour Time: Thursdays from 8pm to 10pm (ET).
   - Summer PILOT works as an extra office hour.
 
 ## PILOT Information
