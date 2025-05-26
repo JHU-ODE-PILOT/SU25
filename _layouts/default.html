@@ -46,4 +46,15 @@
   </div>
 </body>
 
+<script>
+  document.querySelectorAll('a').forEach(link => {
+    if (link.closest('navbar')) return;
+
+    const href = link.getAttribute('href');
+    if (href && href.toLowerCase().endsWith('.pdf')) {
+      link.setAttribute('target', '_blank');
+    }
+  });
+</script>
+
 </html>

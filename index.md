@@ -13,8 +13,8 @@ category: "home"
 ## Session Information
 
 - Term: Summer 2025
-- Dates: Between June 9th and July 30th. 
-- Office Hour Time: To be released.
+- Dates: Between June 2nd and July 30th. 
+- Office Hour Time: Thursdays from 8pm to 10pm.
   - Summer PILOT works as an extra office hour.
 
 ## PILOT Information
@@ -30,4 +30,4 @@ category: "home"
 
 ## Announcements
 
-- **6/9/2025.** Welcome to PILOT for Differential Equations.
+- **6/1/2025.** Welcome to PILOT for Differential Equations.
