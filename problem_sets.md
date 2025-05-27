@@ -41,6 +41,6 @@ For the class assessments, we will prepare corresponding review resources.
 
 | Assessment | Exam Date | Review Session Time | Resources |
 |:----------:|:---------:|:-------------------:|:----------|
-| Midterm 1 | June 21st | June 20th |  |
+| Midterm 1 | June 21st | June 20th | [Review Set 1](/PSets/Exam_1-PS1.pdf) [Review Set 2](/PSets/Exam_1-PS2.pdf) |
 | Midterm 2 | July 12th | July 11th |  |
 | Final | July 25th | July 24th |  |
