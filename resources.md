@@ -4,6 +4,27 @@ title: "Resources"
 category: "resource"
 ---
 
+<div class='admonition info'>
+  <div class='title'>Important!</div>
+  <div class='content' markdown='1'>
+The problem sets and solutions might contain error(s): We are trying our best to fix any as we catch them. Please always refresh for the newest version. If you still notice any, please [contact us]({{site.baseurl}}/credits.html).
+  </div>
+</div>
+
+## Review Session Information
+
+For the class assessments, we will prepare corresponding review resources.
+- The review session information will be updated approximately a week before the assessment.
+- We will provide a practice set, its solutions, and a slide deck of related materials.
+    - If you wish to time the practice sets, each problem shall take approximately 12.5 to 15 minutes.
+    - The solutions will be released after the review session ends.
+
+| Assessment | Exam Date | Review Session Time | Resources |
+|:----------:|:---------:|:-------------------:|:----------|
+| Exam 1 | June 21st | June 20th | [Review Set 1](/PSets/Exam_1-PS1.pdf) [Review Set 2](/PSets/Exam_1-PS2.pdf) |
+| Exam 2 | July 12th | July 11th |  |
+| Exam 3 | July 25th | July 24th |  |
+
 ## Archives
 
 - [PILOT Archives](https://jhu-ode-pilot.github.io):
