@@ -20,11 +20,12 @@ For the class assessments, we will prepare corresponding review resources.
     - The solutions will be released after the review session ends.
     - [Zoom Link](https://JHUBlueJays.zoom.us/j/99066729843?pwd=Ce6x2Et4rITMhhA0kowBHj77ehBvTg.1)
 
-| Assessment | Exam Date | Review Session Time | Resources |
+| Assessment | Exam Due Date | Review Session Time | Resources |
 |:----------:|:---------:|:-------------------:|:----------|
-| Exam 1 | June 21st | June 20th | [Review Set 1](/PSets/Exam_1-PS1.pdf) [Review Set 2](/PSets/Exam_1-PS2.pdf) |
-| Exam 2 | July 12th | July 11th |  |
-| Exam 3 | July 25th | July 24th |  |
+| Exam 1 | June 22nd | June 20th @ 8pm ET |  |
+<!-- [Review Set 1](/PSets/Exam_1-PS1.pdf) [Review Set 2](/PSets/Exam_1-PS2.pdf)  -->
+| Exam 2 | July 13th | July 11th @ 8pm ET |  |
+| Exam 3 | July 26th | July 24th @ 8pm ET |  |
 
 ## Archives
 
