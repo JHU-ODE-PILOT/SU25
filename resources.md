@@ -18,6 +18,7 @@ For the class assessments, we will prepare corresponding review resources.
 - We will provide a practice set, its solutions, and a slide deck of related materials.
     - If you wish to time the practice sets, each problem shall take approximately 12.5 to 15 minutes.
     - The solutions will be released after the review session ends.
+    - [Zoom Link](https://JHUBlueJays.zoom.us/j/99066729843?pwd=Ce6x2Et4rITMhhA0kowBHj77ehBvTg.1)
 
 | Assessment | Exam Date | Review Session Time | Resources |
 |:----------:|:---------:|:-------------------:|:----------|
