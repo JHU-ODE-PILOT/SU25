@@ -17,7 +17,7 @@ category: "home"
 - Office Hour Time: Thursdays from 8pm to 10pm (ET).
   - Summer PILOT works as an extra office hour.
 - Zoom Information: [Link](https://JHUBlueJays.zoom.us/j/99066729843?pwd=Ce6x2Et4rITMhhA0kowBHj77ehBvTg.1)
-  - Meeting ID: 990 6672 9843
+  - Meeting ID: 99066729843
   - Passcode: 863072
 
 
