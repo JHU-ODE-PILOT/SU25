@@ -34,4 +34,5 @@ category: "home"
 
 ## Announcements
 
+- **6/12/2025.** Information about [Exam 1 review session]({{site.baseurl}}/resources.html#review-session-information) is available.
 - **6/1/2025.** Welcome to PILOT for Differential Equations.
