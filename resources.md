@@ -22,7 +22,7 @@ For the class assessments, we will prepare corresponding review resources.
 
 | Assessment | Exam Due Date | Review Session Time | Resources |
 |:----------:|:---------:|:-------------------:|:----------|
-| Exam 1 | June 22nd | June 20th @ 8pm ET | [Review Set 1](/PSets/Exam_1-PS1.pdf) [Review Set 2](/PSets/Exam_1-PS2.pdf) [Slides](/PSets/Exam_1-Slides.pdf) <br> [Review Set 1 Solutions](/PSets/Exam_1-PS1-solutions.pdf) [Review Set 2 Solutions](/PSets/Exam_1-PS2-solutions.pdf) |
+| Exam 1 | June 22nd | June 20th @ 8pm ET | [Review Set 1](/PSets/Exam_1-PS1.pdf) [Review Set 2](/PSets/Exam_1-PS2.pdf) [Slides](/PSets/Exam_1-Slides.pdf) <br> [Review Set 1 Solutions](/PSets/Exam_1-PS1-solutions.pdf) [Review Set 2 Solutions](/PSets/Exam_1-PS2-solutions.pdf) [Recording](https://youtu.be/Muc4yEnJ7II)|
 | Exam 2 | July 13th | July 11th @ 8pm ET |  |
 | Exam 3 | July 26th | July 24th @ 8pm ET |  |
 
