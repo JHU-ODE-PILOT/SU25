@@ -24,7 +24,7 @@ For the class assessments, we will prepare corresponding review resources.
 |:----------:|:---------:|:-------------------:|:----------|
 | Exam 1 | June 22nd | June 20th @ 8pm ET <br> ([Recording](https://youtu.be/Muc4yEnJ7II)) | [Review Set 1](/PSets/Exam_1-PS1.pdf) ([Solutions](/PSets/Exam_1-PS1-solutions.pdf)) <br> [Review Set 2](/PSets/Exam_1-PS2.pdf) ([Solutions](/PSets/Exam_1-PS2-solutions.pdf)) <br> [Slides](/PSets/Exam_1-Slides.pdf)|
 | Exam 2 | July 13th | July 11th @ 8pm ET <br> ([Recording](https://youtu.be/gVZGQhSWY98)) | [Review Set 3](/PSets/Exam_2-PS3.pdf) ([Solutions](/PSets/Exam_2-PS3-solutions.pdf)) <br> [Review Set 4](/PSets/Exam_2-PS4.pdf) ([Solutions](/PSets/Exam_2-PS4-solutions.pdf)) <br> [Slides](/PSets/Exam_2-Slides.pdf)|
-| Exam 3 | July 27th | July 25th @ 8pm ET | [Review Set 5](/PSets/Exam_3-PS5.pdf) ([Solutions](/PSets/Exam_3-PS5-solutions.pdf)) <br> [Review Set 6](/PSets/Exam_3-PS6.pdf) ([Solutions](/PSets/Exam_3-PS6-solutions.pdf)) <br> [Slides](/PSets/Exam_3-Slides.pdf)|
+| Exam 3 | July 27th | July 25th @ 8pm ET <br> ([Recording](https://youtu.be/5LLd3xrtUCU)) | [Review Set 5](/PSets/Exam_3-PS5.pdf) ([Solutions](/PSets/Exam_3-PS5-solutions.pdf)) <br> [Review Set 6](/PSets/Exam_3-PS6.pdf) ([Solutions](/PSets/Exam_3-PS6-solutions.pdf)) <br> [Slides](/PSets/Exam_3-Slides.pdf)|
 
 
 ## Archives

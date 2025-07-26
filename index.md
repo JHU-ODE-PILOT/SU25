@@ -34,5 +34,7 @@ category: "home"
 
 ## Announcements
 
+- **7/17/2025.** Information about [Exam 3 review session]({{site.baseurl}}/resources.html#review-session-information) is available.
+- **7/3/2025.** Information about [Exam 2 review session]({{site.baseurl}}/resources.html#review-session-information) is available.
 - **6/12/2025.** Information about [Exam 1 review session]({{site.baseurl}}/resources.html#review-session-information) is available.
 - **6/1/2025.** Welcome to PILOT for Differential Equations.
