@@ -5,7 +5,6 @@
 <head>
   <title>Differential Equation PILOT: {{page.title}}</title>
   <meta charset="utf-8">
-  <!-- <meta http-equiv="refresh" content="0; URL=https://jhu-ode-pilot.github.io/SP25/disabled.html"> -->
   <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/css/style.css">
   <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/css/syntax.css">
   <script type="text/javascript" src="{{site.baseurl}}/js/page.js"></script>
@@ -30,6 +29,10 @@
 
     <hr id="headerSep">
 
+    <div style="text-align: center;">
+      <i>This semester has ended, for the most recent updates, please check on <a href="https://jhu-ode-pilot.github.io" target="_blank">all semesters</a>.</i>
+    </div>
+
     <div id="pageTitle">{{page.title}}</div>
 
     {{content}}
@@ -45,15 +48,6 @@
   </div>
 </body>
 
-<script>
-  document.querySelectorAll('a').forEach(link => {
-    if (link.closest('navbar')) return;
-
-    const href = link.getAttribute('href');
-    if (href && href.toLowerCase().endsWith('.pdf')) {
-      link.setAttribute('target', '_blank');
-    }
-  });
-</script>
+<script src="/FA25/assets/js/redirect.js"></script>
 
 </html>
